@@ -1,1 +1,1 @@
-simple program to get a url and change it qr-code
+simple program to get a url and change it to a qr-code
